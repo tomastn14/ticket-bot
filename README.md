@@ -4,8 +4,8 @@ Bot de Telegram que analiza fotos de tickets y divide los gastos entre tú y tu 
 
 ## Stack
 - **Python** + python-telegram-bot
-- **Google Gemini 1.5 Flash** para OCR y clasificación (gratis)
-- **Railway** para hosting (gratis)
+- **Google Gemini 2.5 Flash** para OCR y clasificación (gratis)
+- **AWS EC2** 
 
 ## Estructura
 ```
